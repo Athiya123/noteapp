@@ -1,0 +1,24 @@
+.note1{
+    height: 180px;
+    width :1000px;
+    background-color : aquamarine;
+    resize: none;
+    position: relative;
+    left: 10px;
+
+}
+.saveButton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    position: relative;
+    right:0px;
+    left: 80px;
+    bottom:20px;
+    height: 30px;
+    width :50px;
+    border-radius: 50%;
+    
+    
+}
