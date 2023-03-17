@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/noteapp/static/css/main.1d2787a7.css",
-    "main.js": "/noteapp/static/js/main.69f7b469.js",
+    "main.css": "/noteapp/static/css/main.6d4e1a46.css",
+    "main.js": "/noteapp/static/js/main.832c6ff8.js",
     "static/js/787.efd4afdc.chunk.js": "/noteapp/static/js/787.efd4afdc.chunk.js",
     "index.html": "/noteapp/index.html",
-    "main.1d2787a7.css.map": "/noteapp/static/css/main.1d2787a7.css.map",
-    "main.69f7b469.js.map": "/noteapp/static/js/main.69f7b469.js.map",
+    "main.6d4e1a46.css.map": "/noteapp/static/css/main.6d4e1a46.css.map",
+    "main.832c6ff8.js.map": "/noteapp/static/js/main.832c6ff8.js.map",
     "787.efd4afdc.chunk.js.map": "/noteapp/static/js/787.efd4afdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d2787a7.css",
-    "static/js/main.69f7b469.js"
+    "static/css/main.6d4e1a46.css",
+    "static/js/main.832c6ff8.js"
   ]
 }
