@@ -1,0 +1,32 @@
+/* .box1{
+    border:2px solid black;
+    width:1000px;
+    /* height:50px; */
+    /* position: relative;
+    top:100px;
+    left:155px;
+   
+  } */ 
+  .box1{
+    border:2px solid white;
+    width: 80%;
+    /* height:50px; */
+    position: relative;
+    top:100px;
+    left:155px;
+    overflow-y:none;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+  .Note5{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* position: relative;
+    left: 70px; */
+    justify-content: space-between;
+    height: 70px;
+  }
+ 
